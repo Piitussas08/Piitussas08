@@ -28,6 +28,7 @@ I build games from both sides: I write the gameplay code in **Unity / C#** and I
 |---|---|---|
 | [**UN-CREDIBLES**](https://github.com/elhabana/Un-Credibles_REPO) | Superhero party game for 1–4 players: round-based minigames, keyboard, gamepad, mobile and online play. Target release 2027. | Programmer & animator |
 | [**Roller Hunter**](https://github.com/elhabana/RollerHunter_REPO) | Game developed during my internship at Valentia Studio. | Developer |
+| [**KHAO**](https://github.com/Piitussas08/Final-Boxer-Game/tree/Dev-5) | 2D boxing game in Unity 6 (team project): train in the gym with your coach, then fight an AI opponent in the ring. | Programmer |
 
 ---
 
