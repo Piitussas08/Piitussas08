@@ -28,7 +28,6 @@ I build games from both sides: I write the gameplay code in **Unity / C#** and I
 |---|---|---|
 | [**UN-CREDIBLES**](https://github.com/elhabana/Un-Credibles_REPO) | Superhero party game for 1–4 players: round-based minigames, keyboard, gamepad, mobile and online play. Target release 2027. | Programmer & animator |
 | [**Roller Hunter**](https://github.com/elhabana/RollerHunter_REPO) | Game developed during my internship at Valentia Studio. | Developer |
-| [**FPS Project**](https://github.com/Piitussas08/Fps.Proyect) | First-person sci-fi prototype in Unity 6: player controller, weapons, interactables, NPC dialogue and a quest HUD. | Solo dev |
 
 ---
 
@@ -37,8 +36,6 @@ I build games from both sides: I write the gameplay code in **Unity / C#** and I
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Learning:** Python · Go
