@@ -13,13 +13,9 @@
 
 <br>
 
-## About
-
-I build games from both sides of the pipeline. I write gameplay systems in **Unity and C#**, and I model, rig and animate in **Blender** — so I care about how something plays *and* how it looks in motion.
-
-I'm finishing a Higher Technical Degree in **3D Animation & Game Environments** at Florida Universitària in Valencia. During my internship at **Valentia Studio** I worked on *Roller Hunter*, and I'm currently co-developing **UN-CREDIBLES**, a multiplayer party game built in Unity 6.
-
-My goal is to contribute to a major game release.
+<div align="center">
+  <img src="assets/terminal.svg" width="100%" alt="whoami: Fausto, Programmer & 3D Animator, Valencia, Spain. About: gameplay systems in Unity & C#; modeling, rigging & animation in Blender; studying 3D Animation & Game Environments at Florida Universitària; internship at Valentia Studio (Roller Hunter); now building UN-CREDIBLES, a Unity 6 party game for 1–4 players. Goal: contribute to a major game release." />
+</div>
 
 <br>
 
